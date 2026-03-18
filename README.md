@@ -79,7 +79,7 @@ Visualized the distribution of Likes, Shares, and Comments using:
 - Pandas (data manipulation)  
 - Matplotlib & Seaborn (static visualizations)  
 - Plotly (interactive 3D visualizations)  
-![3D Engagement Scatter (Plotly)](newplot.png)
+
 ---
 
 ## Key Insights
@@ -94,4 +94,4 @@ Visualized the distribution of Likes, Shares, and Comments using:
 ## How to Run
 1. Clone the repository:  
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Suravipoudel1/SoftGrowTech_task2_social_media_engagement_analysis.git
