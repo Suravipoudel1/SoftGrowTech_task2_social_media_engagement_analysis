@@ -70,7 +70,8 @@ Visualized the distribution of Likes, Shares, and Comments using:
 **Plotly 3D scatter plot:**  
 - Interactive visualization of engagement by Likes, Comments, and Shares  
 - Hover to see exact values  
-- Sentiment color-coded for better insights  
+- Sentiment color-coded for better insights
+- fig.write_image("images/newplot.png") 
 ---
 
 ## Tools & Libraries
