@@ -71,7 +71,8 @@ Visualized the distribution of Likes, Shares, and Comments using:
 - Interactive visualization of engagement by Likes, Comments, and Shares  
 - Hover to see exact values  
 - Sentiment color-coded for better insights
-- fig.write_image("images/newplot.png") 
+- fig.write_image("images/newplot.png")
+- ![3D Engagement Scatter (Plotly)](newplot.png)
 ---
 
 ## Tools & Libraries
