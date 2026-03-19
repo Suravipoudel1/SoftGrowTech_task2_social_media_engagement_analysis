@@ -41,7 +41,8 @@ Visualized the distribution of Likes, Shares, and Comments using:
 - Histograms (`sns.histplot`)  
 - Boxplots (`sns.boxplot`)
 - <img width="1246" height="690" alt="image" src="https://github.com/user-attachments/assets/5ebfefef-cc07-41c4-8529-b1e0cd7bc427" />
-- <img width="1077" height="663" alt="image" src="https://github.com/user-attachments/assets/9b0cb9e9-7ee7-461e-bfdd-298a8bc45ccd" />
+- <img width="603" height="433" alt="{CB273A95-3DA9-4F1D-B9F9-DB6BC36FBEBF}" src="https://github.com/user-attachments/assets/3298d3ef-21bf-40f4-9abc-6bfb9a9c624e" />
+
 
 ### 2. Engagement Over Time
 - Line plot of total engagement over time to observe trends in post performance.
@@ -51,7 +52,7 @@ Visualized the distribution of Likes, Shares, and Comments using:
 ### 3. Top Posts
 - Top 10 most engaging posts identified using total engagement scores.  
 - Bar plots created to visualize the highest performing posts.
-- <img width="1000" height="553" alt="image" src="https://github.com/user-attachments/assets/38423542-085e-4c76-90b7-8a37f65c499b" />
+- <img width="983" height="527" alt="{77692BA5-8952-46AB-AEE4-9B89C90502F6}" src="https://github.com/user-attachments/assets/3c1b371e-5585-4779-bd34-23a65bef1239" />
 
 
 ### 4. Correlation Analysis
