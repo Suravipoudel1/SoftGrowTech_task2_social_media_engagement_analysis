@@ -41,7 +41,7 @@ Visualized the distribution of Likes, Shares, and Comments using:
 - Histograms (`sns.histplot`)  
 - Boxplots (`sns.boxplot`)
 - <img width="1246" height="690" alt="image" src="https://github.com/user-attachments/assets/5ebfefef-cc07-41c4-8529-b1e0cd7bc427" />
-- <img width="603" height="433" alt="{CB273A95-3DA9-4F1D-B9F9-DB6BC36FBEBF}" src="https://github.com/user-attachments/assets/3298d3ef-21bf-40f4-9abc-6bfb9a9c624e" />
+- <img width="882" height="521" alt="{4B09FBAA-B831-41B9-AEFF-7F2C5B51CD6F}" src="https://github.com/user-attachments/assets/49d05251-5c27-4032-954f-affb96fbd467" />
 
 
 ### 2. Engagement Over Time
